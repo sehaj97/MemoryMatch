@@ -40,4 +40,3 @@ A beautiful and responsive memory matching game built with Next.js, TypeScript, 
 - **Tailwind CSS**: For responsive and utility-first styling
 - **Framer Motion**: For smooth card flip animations
 - **Lucide Icons**: For beautiful card icons
-# MemoryMatch
