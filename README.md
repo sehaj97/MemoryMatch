@@ -1,6 +1,6 @@
 # Memory Match Game
 
-A beautiful and responsive memory matching game built with Next.js, TypeScript, and Tailwind CSS. Test your memory by matching pairs of cards with emojis and icons.
+A beautiful and responsive memory matching game built with Next.js , TypeScript, and Tailwind CSS. Test your memory by matching pairs of cards with emojis and icons.
 
 ![Memory Match Game Screenshot](/public/image.png)
 
